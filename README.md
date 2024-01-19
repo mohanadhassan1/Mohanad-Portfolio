@@ -1,10 +1,9 @@
-![](https://img.shields.io/badge/Omar's-Portfolio-blueviolet)
+![](https://img.shields.io/badge/Mohanad's-Portfolio-blueviolet)
 
-# My New Portfolio
-![image](./public/assets/portgif.gif)
-## Live demo
-
-[Omar's Portfolio](https://o-salem.netlify.app/)
+<!-- # My New Portfolio -->
+<!-- ![image](./public/assets/portgif.gif) -->
+<!-- ## Live demo -->
+<!-- [Omar's Portfolio](https://o-salem.netlify.app/) -->
 
 ## Built With
 
@@ -31,8 +30,8 @@ To get a local copy up and running follow these simple example steps.
 #### Clone this repository
 
 ```bash
-$ git clone https://github.com/omarsalem7/new-portfolio.git
-$ cd new-portfolio
+$ git clone https://github.com/mohanadhassan1/Mohanad-Portfolio.git
+$ cd Mohanad-Portfolio
 ```
 
 #### Run project
@@ -44,11 +43,11 @@ $ npm start
 
 ## Authors
 
-👤 **Omar Salem**
+👤 **Mohanad Hassan**
 
-- GitHub: [Omar Salem](https://github.com/omarsalem7)
-- Twitter: [Omar Salem](https://twitter.com/Omar80491499)
-- LinkedIn: [Omar Salem](https://www.linkedin.com/in/omar-salem-a6945b177/)
+- GitHub: [Mohanad Hassan](https://github.com/mohanadhassan1)
+<!-- - Twitter: [Mohanad Hassan](https://twitter.com/Omar80491499) -->
+- LinkedIn: [Mohanad Hassan](https://www.linkedin.com/in/mohanadhassan1/)
 
 ## 🤝 Contributing
 
