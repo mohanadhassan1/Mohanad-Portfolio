@@ -24,18 +24,18 @@ export default function Works() {
           }}
           icon={<FaLaptopHouse />}
         >
-          <h3 className="vertical-timeline-element-title">Part time TSE</h3>
+          <h3 className="vertical-timeline-element-title">Full Time Training</h3>
           <h4 className="vertical-timeline-element-subtitle">
-            Microverse inc.
+            ITI inc.
           </h4>
           <p>
-            Performed 100s of code reviews in HTML, Ruby & Javascript based
+            Performed 100s of code reviews in TypeScript & JavaScript based
             projects for over 50+ junior developers and ensured best coding
             practices.
           </p>
           <p>
-            Provide specialized technical advice and guidance to multiple junior
-            developers over 1:1 video calls and chat.
+            Provide specialized technical advice and guidance to multiple junior 
+            developers over 1:1 face-to-face for Fully 100% on-site training.
           </p>
         </VerticalTimelineElement>
         <VerticalTimelineElement
@@ -52,18 +52,18 @@ export default function Works() {
           icon={<FaUserGraduate />}
         >
           <h3 className="vertical-timeline-element-title">
-            Software Engineering
+            Software Engineer
           </h3>
           <h4 className="vertical-timeline-element-subtitle">
             Ain Shams University
           </h4>
           <p>
-            Study Software Engineering field by taking courses like: • Design
-            pattern • Data structure • Object-oriented analysis and design •
-            Agile, and soon
+            Study Software Engineer field by taking courses like: • Design
+            Pattern • Data Structure • Object-oriented Programming • System Analysis •
+            Database, and soon
           </p>
           <p>
-            Take intensive training like Security and blockchain @Valora company
+            Take intensive training Fullstack MEARN with @ITI organization
           </p>
         </VerticalTimelineElement>
       </VerticalTimeline>

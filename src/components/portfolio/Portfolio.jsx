@@ -3,10 +3,13 @@ import PortfolioList from "../portfolioList/PortfolioList";
 import "./portfolio.scss";
 import {
   featuredPortfolio,
+  // reactPortfolio,
+  // angularPortfolio,
+  gpITIPortfolio,
+  gpFCISPortfolio,
+  responsivePortfolio,
   htmlPortfolio,
-  jsPortfolio,
-  reactPortfolio,
-  railsPortfolio,
+  
 } from "../../data";
 
 export default function Portfolio() {
@@ -17,22 +20,31 @@ export default function Portfolio() {
       id: "featured",
       title: "Featured",
     },
+    // {
+    //   id: "React/Redux",
+    //   title: "React/Redux",
+    //   // React
+    // },
+    // {
+    //   id: "angular",
+    //   title: "Angular",
+    //   // Angular
+    // },
     {
-      id: "React/Redux",
-      title: "React/Redux",
+      id: "gpITI",
+      title: "Graduation Project ITI",
     },
     {
-      id: "Ruby on rails",
-      title: "Ruby/ Ruby on rails",
-      // Node JS
+      id: "gpFCIS",
+      title: "Graduation Project Computer Science",
     },
     {
-      id: "JavaScript",
-      title: "JavaScript",
+      id: "responsive",
+      title: "Bootstrap Responsive",
     },
     {
-      id: "HTML/CSS",
-      title: "HTML/CSS",
+      id: "HTML/CSS/JAVASCRIPT",
+      title: "HTML/CSS/JAVASCRIPT",
     },
   ];
 
@@ -41,20 +53,23 @@ export default function Portfolio() {
       case "featured":
         setData(featuredPortfolio);
         break;
-      case "React/Redux":
-        setData(reactPortfolio);
+      // case "React/Redux":
+      //   setData(reactPortfolio);
+      //   break;
+      // case "angular":
+      //   setData(angularPortfolio);
+      //   break;
+      case "gpITI":
+        setData(gpITIPortfolio);
         break;
-      case "Ruby in rails":
-        setData(jsPortfolio);
+      case "gpFCIS":
+        setData(gpFCISPortfolio);
         break;
-      case "JavaScript":
-        setData(jsPortfolio);
+      case "responsive":
+        setData(responsivePortfolio);
         break;
-      case "HTML/CSS":
+      case "HTML/CSS/JAVASCRIPT":
         setData(htmlPortfolio);
-        break;
-      case "Ruby on rails":
-        setData(railsPortfolio);
         break;
       default:
         setData(featuredPortfolio);
