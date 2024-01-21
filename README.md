@@ -3,7 +3,7 @@
 <!-- # My New Portfolio -->
 <!-- ![image](./public/assets/portgif.gif) -->
 <!-- ## Live demo -->
-<!-- [Omar's Portfolio](https://o-salem.netlify.app/) -->
+[Mohanad's Portfolio](https://mohanadhassan.netlify.app/)
 
 ## Built With
 
@@ -45,8 +45,8 @@ $ npm start
 
 👤 **Mohanad Hassan**
 
+- Portfolio: [Mohanad Hassan](https://mohanadhassan.netlify.app/)
 - GitHub: [Mohanad Hassan](https://github.com/mohanadhassan1)
-<!-- - Twitter: [Mohanad Hassan](https://twitter.com/Omar80491499) -->
 - LinkedIn: [Mohanad Hassan](https://www.linkedin.com/in/mohanadhassan1/)
 
 ## 🤝 Contributing
