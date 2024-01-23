@@ -2,21 +2,21 @@ export const featuredPortfolio = [
   {
     id: 1,
     title: "Jumia Clone",
-    img: "https://iili.io/wSPQON.png",
+    img: "https://iili.io/JaZJ4AN.md.png",
     demo: "https://mohanadhassan-jumia-clone.netlify.app/",
     github: "https://github.com/mohanadhassan1/jumiaClone",
   },
   {
     id: 2,
     title: "TED Talks",
-    img: "https://iili.io/wSPQON.png",
+    img: "https://iili.io/JaZJA8l.md.png",
     demo: "https://mohanadhassan-tedx.netlify.app/",
     github: "https://github.com/mohanadhassan1/TED-Responsive-Web-Design",
   },
   {
     id: 3,
     title: "Shopify E-Commerce",
-    img: "https://iili.io/wSs86g.png",
+    img: "https://iili.io/JaZHvv2.md.png",
     demo: "https://mohanadhassan-shopify-native-js.netlify.app/",
     github: "https://github.com/mohanadhassan1/Native-E-commerce",
   },
@@ -110,7 +110,7 @@ export const gpITIPortfolio = [
   {
     id: 1,
     title: "Jumia Clone",
-    img: "https://iili.io/wSPQON.png",
+    img: "https://iili.io/JaZJ4AN.md.png",
     demo: "https://mohanadhassan-jumia-clone.netlify.app/",
     github: "https://github.com/mohanadhassan1/jumiaClone",
   },
@@ -120,7 +120,7 @@ export const gpFCISPortfolio = [
   {
     id: 1,
     title: "Detect Covid-19",
-    img: "https://iili.io/wSPQON.png",
+    img: "",
     demo: "",
     github: "https://github.com/mohanadhassan1/GraduationProject",
   },
@@ -130,7 +130,7 @@ export const responsivePortfolio = [
   {
     id: 1,
     title: "TED Talks",
-    img: "https://iili.io/wSPQON.png",
+    img: "https://iili.io/JaZJA8l.md.png",
     demo: "https://mohanadhassan-tedx.netlify.app/",
     github: "https://github.com/mohanadhassan1/TED-Responsive-Web-Design",
   },
@@ -140,7 +140,7 @@ export const htmlPortfolio = [
   {
     id: 1,
     title: "Shopify E-Commerce",
-    img: "https://iili.io/wSs86g.png",
+    img: "https://iili.io/JaZHvv2.md.png",
     demo: "https://mohanadhassan-shopify-native-js.netlify.app/",
     github: "https://github.com/mohanadhassan1/Native-E-commerce",
   },
