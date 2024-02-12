@@ -25,7 +25,7 @@ export const featuredPortfolio = [
 export const reactPortfolio = [
   {
     id: 1,
-    title: "Netflix",
+    title: "Movie Time",
     img: "https://iili.io/J1t8fob.md.png",
     demo: "https://react-movie-time-gamma.vercel.app/",
     github: "https://github.com/mohanadhassan1/React_Movie_Time",
