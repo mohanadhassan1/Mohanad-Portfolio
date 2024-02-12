@@ -15,13 +15,20 @@ export const featuredPortfolio = [
   },
   {
     id: 3,
+    title: "Click Shop",
+    img: "https://iili.io/J1tLA2s.png",
+    demo: "https://book-store-v1.netlify.app/",
+    github: "https://github.com/mohanadhassan1/Angular_Click_Shop",
+  },
+  {
+    id: 4,
     title: "TED Talks",
     img: "https://iili.io/JaZJA8l.md.png",
     demo: "https://mohanadhassan-tedx.netlify.app/",
     github: "https://github.com/mohanadhassan1/TED-Responsive-Web-Design",
   },
   {
-    id: 4,
+    id: 5,
     title: "Shopify E-Commerce",
     img: "https://iili.io/JaZHvv2.md.png",
     demo: "https://mohanadhassan-shopify-native-js.netlify.app/",
@@ -43,10 +50,10 @@ export const reactPortfolio = [
 export const angularPortfolio = [
   {
     id: 1,
-    title: "Golf Courses",
-    img: "https://user-images.githubusercontent.com/53402600/175576410-6d7b3cc3-f16c-4a40-a651-f1cfef00d548.png",
+    title: "Click Shop",
+    img: "https://iili.io/J1tLA2s.png",
     demo: "https://book-store-v1.netlify.app/",
-    github: "https://github.com/omarsalem7/capstone-back-end.git",
+    github: "https://github.com/mohanadhassan1/Angular_Click_Shop",
   }
 ];
 
