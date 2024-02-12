@@ -8,25 +8,33 @@ export const featuredPortfolio = [
   },
   {
     id: 2,
+    title: "Movie Time",
+    img: "https://iili.io/J1t4a8Q.png",
+    demo: "https://react-movie-time-gamma.vercel.app/",
+    github: "https://github.com/mohanadhassan1/React_Movie_Time",
+  },
+  {
+    id: 3,
     title: "TED Talks",
     img: "https://iili.io/JaZJA8l.md.png",
     demo: "https://mohanadhassan-tedx.netlify.app/",
     github: "https://github.com/mohanadhassan1/TED-Responsive-Web-Design",
   },
   {
-    id: 3,
+    id: 4,
     title: "Shopify E-Commerce",
     img: "https://iili.io/JaZHvv2.md.png",
     demo: "https://mohanadhassan-shopify-native-js.netlify.app/",
     github: "https://github.com/mohanadhassan1/Native-E-commerce",
   },
+  
 ];
 
 export const reactPortfolio = [
   {
     id: 1,
     title: "Movie Time",
-    img: "https://iili.io/J1t8fob.md.png",
+    img: "https://iili.io/J1t4a8Q.png",
     demo: "https://react-movie-time-gamma.vercel.app/",
     github: "https://github.com/mohanadhassan1/React_Movie_Time",
   },
