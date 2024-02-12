@@ -47,6 +47,9 @@ export default function Testimonials() {
           </div>
         ))}
       </div>
+      <a href="#contact">
+        <img src="assets/down.png" alt="" />
+      </a>
     </div>
   );
 }

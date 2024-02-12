@@ -67,6 +67,9 @@ export default function Works() {
           </p>
         </VerticalTimelineElement>
       </VerticalTimeline>
+      <a href="#testimonials">
+        <img src="assets/down.png" alt="" />
+      </a>
     </div>
   );
 }

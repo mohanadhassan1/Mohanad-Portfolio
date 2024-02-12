@@ -2,6 +2,24 @@
 
 .expreience {
   background-color: #086899;
+  position: relative;
+
+  a {
+    position: absolute;
+    bottom: 10px;
+    left: 70%;
+
+    img {
+      width: 30px;
+      animation: arrowBlink 2s infinite;
+    }
+
+    @keyframes arrowBlink {
+      100% {
+        opacity: 0;
+      }
+    }
+  }
 }
 .time-item {
   @include mobile {

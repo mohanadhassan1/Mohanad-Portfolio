@@ -3,13 +3,13 @@ import PortfolioList from "../portfolioList/PortfolioList";
 import "./portfolio.scss";
 import {
   featuredPortfolio,
-  // reactPortfolio,
-  // angularPortfolio,
+  reactPortfolio,
+  angularPortfolio,
   gpITIPortfolio,
-  gpFCISPortfolio,
+  // gpFCISPortfolio,
   responsivePortfolio,
   htmlPortfolio,
-  
+
 } from "../../data";
 
 export default function Portfolio() {
@@ -20,24 +20,22 @@ export default function Portfolio() {
       id: "featured",
       title: "Featured",
     },
-    // {
-    //   id: "React/Redux",
-    //   title: "React/Redux",
-    //   // React
-    // },
-    // {
-    //   id: "angular",
-    //   title: "Angular",
-    //   // Angular
-    // },
+    {
+      id: "React",
+      title: "React JS",
+    },
+    {
+      id: "angular",
+      title: "Angular TS",
+    },
     {
       id: "gpITI",
       title: "Graduation Project ITI",
     },
-    {
-      id: "gpFCIS",
-      title: "Graduation Project Computer Science",
-    },
+    // {
+    //   id: "gpFCIS",
+    //   title: "Graduation Project Computer Science",
+    // },
     {
       id: "responsive",
       title: "Bootstrap Responsive",
@@ -53,18 +51,18 @@ export default function Portfolio() {
       case "featured":
         setData(featuredPortfolio);
         break;
-      // case "React/Redux":
-      //   setData(reactPortfolio);
-      //   break;
-      // case "angular":
-      //   setData(angularPortfolio);
-      //   break;
+      case "React":
+        setData(reactPortfolio);
+        break;
+      case "angular":
+        setData(angularPortfolio);
+        break;
       case "gpITI":
         setData(gpITIPortfolio);
         break;
-      case "gpFCIS":
-        setData(gpFCISPortfolio);
-        break;
+      // case "gpFCIS":
+      //   setData(gpFCISPortfolio);
+      //   break;
       case "responsive":
         setData(responsivePortfolio);
         break;
@@ -139,6 +137,9 @@ export default function Portfolio() {
           </div>
         ))}
       </div>
+      <a href="#works">
+        <img src="assets/down.png" alt="" />
+      </a>
     </div>
   );
 }

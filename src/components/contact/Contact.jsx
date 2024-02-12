@@ -45,6 +45,9 @@ export default function Contact() {
           </button>
         </form>
       </div>
+      <a href="#intro">
+        <img src="assets/down.png" alt="" />
+      </a>
     </div>
   );
 }
