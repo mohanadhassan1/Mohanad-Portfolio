@@ -17,7 +17,7 @@ export const featuredPortfolio = [
     id: 3,
     title: "Click Shop",
     img: "https://iili.io/J1tLA2s.png",
-    demo: "https://book-store-v1.netlify.app/",
+    demo: "https://mohanadhassan-angular-clickshop.netlify.app/",
     github: "https://github.com/mohanadhassan1/Angular_Click_Shop",
   },
   {
@@ -52,7 +52,7 @@ export const angularPortfolio = [
     id: 1,
     title: "Click Shop",
     img: "https://iili.io/J1tLA2s.png",
-    demo: "https://book-store-v1.netlify.app/",
+    demo: "https://mohanadhassan-angular-clickshop.netlify.app/",
     github: "https://github.com/mohanadhassan1/Angular_Click_Shop",
   }
 ];
