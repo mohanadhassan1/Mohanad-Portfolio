@@ -3,7 +3,7 @@ export const featuredPortfolio = [
     id: 1,
     title: "Jumia Clone",
     img: "https://iili.io/JaZJ4AN.md.png",
-    demo: "https://mohanadhassan-jumia-clone.netlify.app/",
+    demo: "https://jumia-main-fed2c688ede0.herokuapp.com/",
     github: "https://github.com/mohanadhassan1/jumiaClone",
   },
   {
@@ -62,7 +62,7 @@ export const gpITIPortfolio = [
     id: 1,
     title: "Jumia Clone",
     img: "https://iili.io/JaZJ4AN.md.png",
-    demo: "https://mohanadhassan-jumia-clone.netlify.app/",
+    demo: "https://jumia-main-fed2c688ede0.herokuapp.com/",
     github: "https://github.com/mohanadhassan1/jumiaClone",
   },
 ];
@@ -94,5 +94,14 @@ export const htmlPortfolio = [
     img: "https://iili.io/JaZHvv2.md.png",
     demo: "https://mohanadhassan-shopify-native-js.netlify.app/",
     github: "https://github.com/mohanadhassan1/Native-E-commerce",
+  },
+];
+
+
+export const skills = [
+  {
+    id: 1,
+    title: "HTML",
+    img: "../public/assets/Skills/html",
   },
 ];
