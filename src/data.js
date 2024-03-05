@@ -22,13 +22,20 @@ export const featuredPortfolio = [
   },
   {
     id: 4,
+    title: "Admin Dashboard",
+    img: "https://iili.io/JVnWHtj.png",
+    demo: "https://admin-dashboard-pi-seven.vercel.app/",
+    github: "https://github.com/mohanadhassan1/admin-dashboard",
+  },
+  {
+    id: 5,
     title: "TED Talks",
     img: "https://iili.io/JaZJA8l.md.png",
     demo: "https://mohanadhassan-tedx.netlify.app/",
     github: "https://github.com/mohanadhassan1/TED-Responsive-Web-Design",
   },
   {
-    id: 5,
+    id: 6,
     title: "Shopify E-Commerce",
     img: "https://iili.io/JaZHvv2.md.png",
     demo: "https://mohanadhassan-shopify-native-js.netlify.app/",
@@ -44,6 +51,13 @@ export const reactPortfolio = [
     img: "https://iili.io/J1t4a8Q.png",
     demo: "https://react-movie-time-gamma.vercel.app/",
     github: "https://github.com/mohanadhassan1/React_Movie_Time",
+  },
+  {
+    id: 2,
+    title: "Admin Dashboard",
+    img: "https://iili.io/JVnWHtj.png",
+    demo: "https://admin-dashboard-pi-seven.vercel.app/",
+    github: "https://github.com/mohanadhassan1/admin-dashboard",
   },
 ];
 
