@@ -3,6 +3,7 @@ import { BsFillPersonFill } from "react-icons/bs";
 import { GrMail } from "react-icons/gr";
 import { FaLinkedin } from "react-icons/fa";
 import { AiFillGithub } from "react-icons/ai";
+
 export default function Topbar({ menuOpen, setMenuOpen }) {
   return (
     <div className={"topbar " + (menuOpen && "active")}>
@@ -37,6 +38,9 @@ export default function Topbar({ menuOpen, setMenuOpen }) {
             >
               <AiFillGithub className="icon" />
             </a>
+
+            <a href="Mohanad_Hassan_CV.pdf" className="cv" target="_blank" rel="noreferrer" download>Download Resume</a>
+
           </div>
         </div>
         <div className="right">
