@@ -13,7 +13,7 @@ export default function Works() {
         <VerticalTimelineElement
           contentStyle={{ background: "#f7f0d4", color: "#086899" }}
           className="vertical-timeline-element--work time-item"
-          date="2022 - present"
+          date="Nov 2023 - Feb 2024"
           contentArrowStyle={{ borderRight: "7px solid  #FFF" }}
           iconStyle={{
             background: "#086899",
@@ -38,10 +38,11 @@ export default function Works() {
             developers over 1:1 face-to-face for Fully 100% on-site training.
           </p>
         </VerticalTimelineElement>
+        
         <VerticalTimelineElement
           contentStyle={{ color: "#086899" }}
           className="vertical-timeline-element--work time-item"
-          date="2010 - 2011"
+          date="Sept 2017 - July 2021"
           iconStyle={{
             background: "#086899",
             color: "#fff",
