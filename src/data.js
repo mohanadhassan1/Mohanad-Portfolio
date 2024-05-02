@@ -3,7 +3,7 @@ export const featuredPortfolio = [
     id: 1,
     title: "Jumia Clone",
     img: "https://iili.io/JaZJ4AN.md.png",
-    demo: "https://jumia-main-fed2c688ede0.herokuapp.com/",
+    demo: "https://jumia-main.onrender.com/",
     github: "https://github.com/mohanadhassan1/jumiaClone",
   },
   {
@@ -76,7 +76,7 @@ export const gpITIPortfolio = [
     id: 1,
     title: "Jumia Clone",
     img: "https://iili.io/JaZJ4AN.md.png",
-    demo: "https://jumia-main-fed2c688ede0.herokuapp.com/",
+    demo: "https://jumia-main.onrender.com/",
     github: "https://github.com/mohanadhassan1/jumiaClone",
   },
 ];
