@@ -28,11 +28,11 @@ export const featuredPortfolio = [
     github: "https://github.com/mohanadhassan1/admin-dashboard",
   },
   {
-    id: 5,
-    title: "TED Talks",
-    img: "https://iili.io/JaZJA8l.md.png",
-    demo: "https://mohanadhassan-tedx.netlify.app/",
-    github: "https://github.com/mohanadhassan1/TED-Responsive-Web-Design",
+    id: 6,
+    title: "Handle Products",
+    img: "https://iili.io/d9HKg1t.md.png",
+    demo: "https://handle-products.vercel.app/",
+    github: "https://github.com/mohanadhassan1/handle_products",
   },
   {
     id: 6,
@@ -40,13 +40,6 @@ export const featuredPortfolio = [
     img: "https://iili.io/JaZHvv2.md.png",
     demo: "https://mohanadhassan-shopify-native-js.netlify.app/",
     github: "https://github.com/mohanadhassan1/Native-E-commerce",
-  },
-  {
-    id: 7,
-    title: "Handle Products",
-    img: "https://iili.io/d9HKg1t.md.png",
-    demo: "https://handle-products.vercel.app/",
-    github: "https://github.com/mohanadhassan1/handle_products",
   },
 ];
 
