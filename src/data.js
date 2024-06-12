@@ -41,7 +41,13 @@ export const featuredPortfolio = [
     demo: "https://mohanadhassan-shopify-native-js.netlify.app/",
     github: "https://github.com/mohanadhassan1/Native-E-commerce",
   },
-  
+  {
+    id: 7,
+    title: "Handle Products",
+    img: "https://iili.io/d9HKg1t.md.png",
+    demo: "https://handle-products.vercel.app/",
+    github: "https://github.com/mohanadhassan1/handle_products",
+  },
 ];
 
 export const reactPortfolio = [
@@ -58,6 +64,13 @@ export const reactPortfolio = [
     img: "https://iili.io/JVnWHtj.png",
     demo: "https://admin-dashboard-pi-seven.vercel.app/",
     github: "https://github.com/mohanadhassan1/admin-dashboard",
+  },
+  {
+    id: 3,
+    title: "Handle Products",
+    img: "https://iili.io/d9HKg1t.md.png",
+    demo: "https://handle-products.vercel.app/",
+    github: "https://github.com/mohanadhassan1/handle_products",
   },
 ];
 
