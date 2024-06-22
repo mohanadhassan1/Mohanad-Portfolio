@@ -28,7 +28,7 @@ export const featuredPortfolio = [
     github: "https://github.com/mohanadhassan1/admin-dashboard",
   },
   {
-    id: 6,
+    id: 5,
     title: "Handle Products",
     img: "https://iili.io/d9HKg1t.md.png",
     demo: "https://handle-products.vercel.app/",
@@ -36,10 +36,10 @@ export const featuredPortfolio = [
   },
   {
     id: 6,
-    title: "Shopify E-Commerce",
-    img: "https://iili.io/JaZHvv2.md.png",
-    demo: "https://mohanadhassan-shopify-native-js.netlify.app/",
-    github: "https://github.com/mohanadhassan1/Native-E-commerce",
+    title: "Blog Web Application",
+    img: "https://iili.io/dd5ckxa.md.png",
+    demo: "https://blog-application-tawny.vercel.app/",
+    github: "https://github.com/mohanadhassan1/blog-application",
   },
 ];
 
@@ -64,6 +64,13 @@ export const reactPortfolio = [
     img: "https://iili.io/d9HKg1t.md.png",
     demo: "https://handle-products.vercel.app/",
     github: "https://github.com/mohanadhassan1/handle_products",
+  },
+  {
+    id: 4,
+    title: "Blog Web Application",
+    img: "https://iili.io/dd5ckxa.md.png",
+    demo: "https://blog-application-tawny.vercel.app/",
+    github: "https://github.com/mohanadhassan1/blog-application",
   },
 ];
 
