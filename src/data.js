@@ -29,10 +29,10 @@ export const featuredPortfolio = [
   },
   {
     id: 5,
-    title: "Handle Products",
-    img: "https://iili.io/d9HKg1t.md.png",
-    demo: "https://handle-products.vercel.app/",
-    github: "https://github.com/mohanadhassan1/handle_products",
+    title: "Video Chat",
+    img: "https://iili.io/dqVqzNe.md.png",
+    demo: "https://videochat-three.vercel.app/",
+    github: "https://github.com/mohanadhassan1/videochat",
   },
   {
     id: 6,
@@ -71,6 +71,20 @@ export const reactPortfolio = [
     img: "https://iili.io/dd5ckxa.md.png",
     demo: "https://blog-application-tawny.vercel.app/",
     github: "https://github.com/mohanadhassan1/blog-application",
+  },
+  {
+    id: 5,
+    title: "Video Chat",
+    img: "https://iili.io/dqVqzNe.md.png",
+    demo: "https://videochat-three.vercel.app/",
+    github: "https://github.com/mohanadhassan1/videochat",
+  },
+  {
+    id: 6,
+    title: "Jumia Clone",
+    img: "https://iili.io/JaZJ4AN.md.png",
+    demo: "https://jumia-main.onrender.com/",
+    github: "https://github.com/mohanadhassan1/jumiaClone",
   },
 ];
 
